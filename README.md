@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nine497&label=Profile%20views&color=0e75b6&style=flat" alt="nine497" /> </p>
 
-- 🔭 I’m currently **study**
+- I’m currently **study**
 
-- 🌱 I’m currently learning **NextJS, NodeJs**
+- I’m currently learning **Rect, NodeJs**
 
-- 📫 How to reach me **sumstt@gmail.com**
-
-- ⚡ Fun fact **student with a passion for coding**
+- How to reach me **sumstt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
