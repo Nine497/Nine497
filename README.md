@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Sumat Thongin</h2>
 <h3 align="center">Journey to becoming a Web Developer: Follow my progress as I learn and grow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nine497&label=Profile%20views&color=0e75b6&style=flat" alt="nine497" /> </p>
+<p align="left"> <img src="https://wallpapers-clan.com/wp-content/uploads/2024/02/anime-girl-with-flowers-butterflies-desktop-wallpaper-preview.jpg" alt="nine497" /> </p>
 
 - I’m currently **study**
 
