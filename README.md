@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://wallpapers-clan.com/wp-content/uploads/2024/02/anime-girl-with-flowers-butterflies-desktop-wallpaper-preview.jpg" alt="nine497" /> </p>
 
-- I’m currently **study**
-
-- I’m currently learning **Rect, NodeJs**
+- I’m currently **Newly graduated**
 
 - How to reach me **sumstt@gmail.com**
 
